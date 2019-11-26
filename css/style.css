@@ -1,5 +1,5 @@
 body{
-    background-color: aqua;
+    background-color: mediumturquoise;
 
 }
 h1{
@@ -8,25 +8,35 @@ h1{
     font-size: 85px;
     text-align: center;
 }
-h2
+h2{
     position: relative;
     color: white;
     background-color: teal;
-    width: 1140px;
-    height: 50px;
-    top: 100px;
-    left: 35px;
-    right: 0px;
+    width: 1120px;
+    height: 30px;
+    bottom: 20px;
+    
+   
 }
-h2
+h3{
     position: relative;
     color: white;
     background-color: teal;
-    width: 1140px;
-    height: 50px;
-    top: 50px;
-    left: 35px;
-    right: 0px;
+    width: 1120px;
+    height: 30px;
+    bottom: 20px;
+    
+   
+}
+h4{
+    position: relative;
+    color: white;
+    background-color:rgb(85, 88, 88);
+    width: 1010px;
+    height: 30px;
+    bottom: 30px;
+    
+   
 }
 div.cajas{
     border: 20px solid rgb(3, 95, 80);
@@ -39,50 +49,103 @@ div.caja1{
   width:1120px;
   height:180px;
   margin:15px;
-  padding:5px;
-  border:20px solid teal;
+  border:10px solid teal;
 
 }
 div.caja2{
-    position:static;
+    position:relative;
   display:inline-block;
   text-decoration:none;
-  width:1150px;
-  height:180px;
-  margin:10px;
-  padding:5px;
-  border:20px solid teal;
+  width:1120px;
+  height:820px;
+  margin:15px;
+  border:10px solid teal;
+
 }
 div.caja-3{
-    position: relative;;
+    position: relative;
   display:inline-block;
   text-decoration:none;
   width:1000px;
-  height:180px;
+  height:200px;
   margin:10px;
-  padding:5px;
-  left: 80px;
-  border:20px solid rgb(85, 88, 88);
+  padding:0px;
+  left: 40px;
+  border:17px solid rgb(85, 88, 88);
 }
 div.caja-4{
-    position: relative;;
+    position: relative;
     display:inline-block;
     text-decoration:none;
     width:1000px;
     height:180px;
     margin:10px;
-    padding:5px;
-    left: 80px;
-    border:20px solid rgb(85, 88, 88);
+    padding:0px;
+    left: 40px;
+    border:17px solid rgb(85, 88, 88);
 }
 div.caja-5{
-    position: relative;;
+    position: relative;
     display:inline-block;
     text-decoration:none;
     width:1000px;
     height:180px;
     margin:10px;
-    padding:5px;
-    left: 80px;
-    border:20px solid rgb(85, 88, 88);
+    padding:0px;
+    left: 40px;
+    border:17px solid rgb(85, 88, 88);
 }
+#div6 { 
+    width: 115px;
+    height: 115px;
+    overflow: hidden;
+    border: 1px solid whitesmoke;
+    margin: 0px; 
+    margin-left: 0px;
+    padding: 2px; 
+    border-radius: 0px 0px 0px 0px ;
+    float: left;
+    
+    bottom: 50px;
+    
+  } 
+  #div7 { 
+    width: 115px;
+    height: 115px;
+    overflow: hidden;
+    border: 1px solid whitesmoke; /*color blanco para el borde*/ 
+    margin: 0px; 
+    margin-left: 0px;
+    padding: 2px; 
+    border-radius: 0px 0px 0px 0px ;
+    float: right;
+    
+      }
+      #div8 { 
+        width: 165px;
+        height: 165px;
+        overflow: hidden;
+        border: 1px solid whitesmoke;
+        margin: 0px; 
+        margin-left: 0px;
+        padding: 2px; 
+        border-radius: 0px 0px 0px 0px ;
+        float: left;
+        position: relative;
+        bottom: 55px;
+        
+      } 
+      #div9 { 
+        width: 135px;
+        height: 130px;
+        overflow: hidden;
+        border: 1px solid whitesmoke; /*color blanco para el borde*/ 
+        margin: 0px; 
+        margin-left: 0px;
+        padding: 2px; 
+        border-radius: 0px 0px 0px 0px ;
+        float: right;
+        position: relative;
+        
+        
+          }
