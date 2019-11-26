@@ -1,0 +1,88 @@
+body{
+    background-color: aqua;
+
+}
+h1{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 85px;
+    text-align: center;
+}
+h2
+    position: relative;
+    color: white;
+    background-color: teal;
+    width: 1140px;
+    height: 50px;
+    top: 100px;
+    left: 35px;
+    right: 0px;
+}
+h2
+    position: relative;
+    color: white;
+    background-color: teal;
+    width: 1140px;
+    height: 50px;
+    top: 50px;
+    left: 35px;
+    right: 0px;
+}
+div.cajas{
+    border: 20px solid rgb(3, 95, 80);
+    margin:0px;
+}
+div.caja1{
+    position:relative;
+  display:inline-block;
+  text-decoration:none;
+  width:1120px;
+  height:180px;
+  margin:15px;
+  padding:5px;
+  border:20px solid teal;
+
+}
+div.caja2{
+    position:static;
+  display:inline-block;
+  text-decoration:none;
+  width:1150px;
+  height:180px;
+  margin:10px;
+  padding:5px;
+  border:20px solid teal;
+}
+div.caja-3{
+    position: relative;;
+  display:inline-block;
+  text-decoration:none;
+  width:1000px;
+  height:180px;
+  margin:10px;
+  padding:5px;
+  left: 80px;
+  border:20px solid rgb(85, 88, 88);
+}
+div.caja-4{
+    position: relative;;
+    display:inline-block;
+    text-decoration:none;
+    width:1000px;
+    height:180px;
+    margin:10px;
+    padding:5px;
+    left: 80px;
+    border:20px solid rgb(85, 88, 88);
+}
+div.caja-5{
+    position: relative;;
+    display:inline-block;
+    text-decoration:none;
+    width:1000px;
+    height:180px;
+    margin:10px;
+    padding:5px;
+    left: 80px;
+    border:20px solid rgb(85, 88, 88);
+}
